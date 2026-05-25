@@ -1,0 +1,13 @@
+{
+	"params":
+		[
+			{
+				"source_url": "Mauro-7/AW-Engineer/refs/heads/main/RawData/bookings.csv",
+				"sink_file": "bookings.csv"
+			},
+			{
+				"source_url": "Mauro-7/AW-Engineer/refs/heads/main/RawData/passengers.csv",
+				"sink_file": "passengers.csv"
+			}
+		]
+}
